@@ -2,7 +2,7 @@
 
 <ul>
   <li> Gosto de aprender novas coisas por conta própria ;)</li>
-  <li> Também sou apaixonado pela natureza 🌳</li>
+  <li> Também sou apaixonado por coisas do universo🚀🌎</li>
 </ul>
 
 ## Tecnologias ❤️‍🔥
@@ -17,7 +17,7 @@
   <li> 
     Desenvolvimento Front-End: <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vue,threejs" />
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vue,nextjs,ts" />
     </a>
   </li>
 
@@ -31,7 +31,7 @@
   <li> 
      Outros: <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=blender,unity,figma,robloxstudio" />
+      <img src="https://skillicons.dev/icons?i=figma,aws,docker" />
   </a>
   </li>
 </ul>
