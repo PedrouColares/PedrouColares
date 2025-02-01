@@ -8,30 +8,23 @@
 ## Tecnologias ❤️‍🔥
 <ul>
   <li> 
-    Linguagens: <br>
+    Tecnologias que eu utilizo: <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,lua,python,java,cpp,cs" />
-    </a>
-  </li>
-  
-  <li> 
-    Desenvolvimento Front-End: <br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vue,nextjs,ts" />
+      <img src="https://skillicons.dev/icons?i=java,js,python,lua,cpp,cs,html,css,ts,spring,mysql,postgres,figma,blender" />
     </a>
   </li>
 
   <li> 
-    Desenvolvimento Back-End: <br>
+    Frameworks & Bibliotecas: <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,spring" />
+      <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,threejs" />
     </a>
   </li>
 
   <li> 
-     Outros: <br>
+     Atualmente estou aprendendo: <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,aws,docker" />
+      <img src="https://skillicons.dev/icons?i=vue,aws,docker" />
   </a>
   </li>
 </ul>
