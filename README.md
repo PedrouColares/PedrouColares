@@ -24,7 +24,7 @@
   <li> 
      Atualmente estou aprendendo: <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=supabase,r,vue,aws,docker" />
+      <img src="https://skillicons.dev/icons?i=supabase,r,vue,aws,docker,postman" />
   </a>
   </li>
 </ul>
