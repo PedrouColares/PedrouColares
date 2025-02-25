@@ -10,7 +10,7 @@
   <li> 
     Tecnologias que eu utilizo: <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,js,python,lua,cpp,cs,html,css,ts,spring,nodejs,mysql,postgres,figma,blender" />
+      <img src="https://skillicons.dev/icons?i=java,js,python,lua,html,css,ts,spring,nodejs,mysql,postman,figma,blender" />
     </a>
   </li>
 
@@ -24,7 +24,7 @@
   <li> 
      Atualmente estou aprendendo: <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=supabase,r,vue,aws,docker,postman" />
+      <img src="https://skillicons.dev/icons?i=supabase,r,vue,aws,docker" />
   </a>
   </li>
 </ul>
