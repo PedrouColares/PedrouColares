@@ -8,23 +8,23 @@
 ## Tecnologias ❤️‍🔥
 <ul>
   <li> 
-    Tecnologias que eu utilizo: <br>
+    Tecnologias que eu utilizo diariamente: <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,js,python,lua,html,css,ts,spring,nodejs,mysql,postman,figma,blender" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,lua,js,ts,nodejs,python,mysql,postman" />
     </a>
   </li>
 
   <li> 
     Frameworks & Bibliotecas: <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,threejs" />
+      <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs" />
     </a>
   </li>
 
   <li> 
      Atualmente estou aprendendo: <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=supabase,r,vue,aws,docker" />
+      <img src="https://skillicons.dev/icons?i=aws,docker" />
   </a>
   </li>
 </ul>
