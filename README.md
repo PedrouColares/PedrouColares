@@ -10,14 +10,14 @@
   <li> 
     Tecnologias que eu utilizo diariamente: <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,lua,js,ts,nodejs,python,mysql,postman" />
+      <img src="https://skillicons.dev/icons?i=js,ts,nodejs,go,lua,python,mysql,postman" />
     </a>
   </li>
 
   <li> 
     Frameworks & Bibliotecas: <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs" />
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,nextjs" />
     </a>
   </li>
 
