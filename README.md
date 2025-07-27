@@ -22,7 +22,7 @@ I am a self-taught developer and a tech enthusiast, always seeking new challenge
 <p align="center">
   <strong>Languages & Runtimes I use daily:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,go,lua,python,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,lua,java,mysql,postman" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ I am a self-taught developer and a tech enthusiast, always seeking new challenge
 <p align="center">
   <strong>Currently learning:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,mongodb" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,spring,mongodb,go" />
   </a>
 </p>
 
