@@ -13,7 +13,7 @@
 I am a self-taught developer and a tech enthusiast, always seeking new challenges and knowledge. Just as I'm fascinated by exploring the mysteries of the universe 🚀, I'm equally passionate about diving into new technologies to create efficient and innovative solutions.
 
 - 📫 You can reach me via the links at the bottom of this page.
-- ⚡ Fun fact: I'm a game dev, and I also love spending my free time learning about cosmology!
+- ⚡ Fun fact: I'm also a game dev, and I also love spending my free time learning about cosmology!
 
 ## 🛠️ My Tech Stack
 
