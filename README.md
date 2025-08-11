@@ -12,8 +12,6 @@
 
 I am a self-taught developer and a tech enthusiast, always seeking new challenges and knowledge. Just as I'm fascinated by exploring the mysteries of the universe 🚀, I'm equally passionate about diving into new technologies to create efficient and innovative solutions.
 
-- 🌱 I’m currently improving my skills in **AWS** and **Docker**, with a focus on infrastructure and DevOps.
-- 💬 Ask me about **JavaScript/TypeScript, Go, React**, and **Next.js**.
 - 📫 You can reach me via the links at the bottom of this page.
 - ⚡ Fun fact: I'm a game dev, and I also love spending my free time learning about cosmology!
 
