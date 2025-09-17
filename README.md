@@ -18,23 +18,8 @@ I am a self-taught developer and a tech enthusiast, always seeking new challenge
 ## 🛠️ My Tech Stack
 
 <p align="center">
-  <strong>Languages & Runtimes I use daily:</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,python,java,mysql,postman" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Frameworks & Libraries I master:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Currently learning:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,aws,docker,mongodb" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,nodejs,typescript,sqlite,mongodb,postman" />
   </a>
 </p>
 
