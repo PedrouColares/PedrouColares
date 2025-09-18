@@ -12,8 +12,6 @@
 
 I am a self-taught developer and a tech enthusiast, always seeking new challenges and knowledge. Just as I'm fascinated by exploring the mysteries of the universe 🚀, I'm equally passionate about diving into new technologies to create efficient and innovative solutions.
 
-- 📫 I don't come here often, but you can reach me via the links at the bottom of this page.
-
 ## 🛠️ My Tech Stack
 
 <p align="center">
