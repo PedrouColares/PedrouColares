@@ -16,7 +16,7 @@ Tribunal Regional do Trabalho da 11a Região · Estágio \
 ## 👨‍💻 Sobre Mim
 - Desenvolvedor de Software com foco em **Aplicações Mobile**.
 - Desenvolvedor de Jogos nas horas extras.
-- Atualmente aprofundando conhecimentos em **Backend com Swift (Vapor)**, Segurança e AWS Cloud.
+- Atualmente aprofundando conhecimentos em *Backend, Segurança e AWS Cloud.
   
 ## 🛠️ Tecnologias
 
