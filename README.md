@@ -9,14 +9,14 @@
 
 ## Experiência Profissional
 <a href="#"><img src="https://portal.trt11.jus.br/images/sistemas/logo-login.png" align="left" width="70" height="70" alt="MZ Group Logo"/></a>
-**Suporte Técnico em Tecnologia da Informação** \
+**Estagiário de Tecnologia da Informação** \
 Tribunal Regional do Trabalho da 11a Região · Estágio \
 <i>Abr. 2025</i> - <i>Abr. 2026</i>
 
 ## 👨‍💻 Sobre Mim
 - Desenvolvedor de Software com foco em **Aplicações Mobile**.
 - Desenvolvedor de Jogos nas horas extras.
-- Atualmente aprofundando conhecimentos em *Backend, Segurança e AWS Cloud.
+- Atualmente aprofundando conhecimentos em Backend, Segurança e AWS Cloud.
   
 ## 🛠️ Tecnologias
 
