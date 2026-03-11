@@ -26,7 +26,8 @@ Tribunal Regional do Trabalho da 11a Região · Estágio \
   </a>
 </p>
 
-## 📊 Estatísticas
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrouColares&langs_count=16&theme=omni&card_width=450"/>
